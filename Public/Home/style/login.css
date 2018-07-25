@@ -1,0 +1,35 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+
+body{
+	background-color: #9ee2d3;
+}
+
+.home_login {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 400px;
+	height: 400px;
+}
+
+ul li {
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+.home_information,.home_list {
+	/*background-color: #43bc7a;*/
+	margin-top: 10px;
+	height: 200px;
+	width: 400px;
+}
+
+.btn_input {
+	float:left;
+	margin-left:80px;
+	margin-top: 5px;
+}
+
