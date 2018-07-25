@@ -1,0 +1,18 @@
+[ 2018-04-28T09:20:50+08:00 ] ::1 /library/index.php/checkrecord/checkrecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Checkrecord
+
+[ 2018-04-28T09:20:57+08:00 ] ::1 /library/index.php/Checkrecord/checkrecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Checkrecord
+
+[ 2018-04-28T09:21:24+08:00 ] ::1 /library/index.php/Checkrecord/checkrecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Checkrecord
+
