@@ -1,0 +1,9 @@
+1.application 文件夹是www下最重要的文件夹，用于放置前后台代码；
+
+2.public是公共文件夹，用于存放资源（如图片，模板css，js文件）；
+
+3.ThinkPHP是thinkphp自带的一个函数库，里面有很多函数方法（不操作）；
+
+4.
+
+5.application下的admin和home两个文件夹的目录结构相同，区别在于admin用于写后台，home用于写前台（即存放前后台文件）；
